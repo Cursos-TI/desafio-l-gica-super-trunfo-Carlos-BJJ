@@ -6,7 +6,7 @@ no calculo do PibperCapita
 */
 
 int main(){
-//Declaração as variáveis    
+//Declaração das variáveis    
     char estado1, codigocarta1[5], nomecidade1[20];
     int pontos_turisticos1;
     unsigned long int populacao1; 
